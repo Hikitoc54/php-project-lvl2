@@ -1,8 +1,8 @@
 {
-    "name": "hexlet/getdiff",
-    "description": "getdiff",
+    "name": "hexlet/gendiff",
+    "description": "gendiff",
     "bin": [
-        "bin/gendiff.php"
+        "bin/gendiff"
     ],
     "autoload": {
         "psr-4": {
